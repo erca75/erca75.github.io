@@ -1,0 +1,84 @@
+﻿:: - moz-selection
+{
+	background:black;
+	color:lime;
+}
+
+::selection
+{
+	background:black;
+	color:lime;
+}
+
+{
+	background-color:aqua;
+}
+
+body {
+	font-family: Calibri;
+	font-style: normal;
+	font-size: medium;
+}
+
+.all {
+	padding-left: 78px;
+	padding-right: 78px;
+}
+
+.round-img {
+	height: 160px;
+	width: 160px;
+	border-radius: 80px;
+	-webkit-border-radius: 80px;
+	-moz-border-radius: 80px;
+}
+
+.specialBackground {
+	background-image: url("bg2.jpg");
+}
+
+.aboutMenu {
+	text-align:center;
+	text-indent: 10px;
+	font-size: x-large;
+}
+
+.allcenter {
+	text-align: center;
+}
+
+.auto-style1 {
+	text-align: center;
+}
+.auto-style2 {
+	text-align: right;
+}
+.auto-style3 {
+	color: #FFFFFF;
+}
+.auto-style4 {
+	color: #000000;
+	font-size: large;
+}
+.auto-style5 {
+	color: #000000;
+	text-align: right;
+}
+.auto-style6 {
+	text-align: center;
+	background-color: #800080;
+}
+.auto-style7 {
+	color: #000000;
+	vertical-align: middle;
+}
+.auto-style8 {
+	text-align: center;
+}
+.auto-style9 {
+	color: #000000;
+}
+
+.content {
+	background-color: rgba(190, 181, 148 , 1.0)
+}
